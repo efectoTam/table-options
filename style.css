@@ -1,0 +1,27 @@
+.table-layout {
+  display: table;
+  background: rebad;
+  width: 100%;
+  height: 100%;
+}
+.table-row {
+  display: table-row;
+  background: green;
+  vertical-align: middle;
+}
+.table-cell {
+  display: table-cell;
+  background: blue;
+  vertical-align: middle;
+}
+
+.table-flex {
+  width: 100%;
+}
+
+.button {
+  padding: 10px;
+  background: white;
+  margin: 10px;
+  display: inline-block;
+}
